@@ -1,4 +1,5 @@
 # Me-API Playground
+[View PDF Documentation](./Me-API-Compressed(1).pdf)
 
 > A RESTful backend system for managing developer profiles and projects with intelligent skill-based filtering capabilities.
 
