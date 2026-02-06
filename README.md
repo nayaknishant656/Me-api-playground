@@ -35,6 +35,7 @@ Me-API Playground is a robust backend solution designed to manage developer prof
 - **Backend:** [predusk-backend-mongodb-express-react](https://github.com/nayaknishant656/predusk-backend-mongodb-express-react)
 - **Frontend:** [predusk-frontend-react](https://github.com/nayaknishant656/predusk-frontend-react)
 - **Live Demo:** [https://predusk-frontend-react.vercel.app/projects](https://predusk-frontend-react.vercel.app/)
+- ** BACKNED DEMO ** [https://predusk-backend-mongodb-express-rea-eta.vercel.app/api/profiles](https://predusk-backend-mongodb-express-rea-eta.vercel.app/api/profiles)
 
 ## ✨ Key Features
 
