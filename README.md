@@ -19,6 +19,8 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+
+
 ## 🎯 Overview
 
 Me-API Playground is a robust backend solution designed to manage developer profiles and projects with advanced filtering capabilities. Perfect for building:
@@ -57,6 +59,14 @@ Me-API Playground is a robust backend solution designed to manage developer prof
 | **Frontend** | React |
 
 ## 🏗 System Architecture
+
+
+The system architecture is shown below:
+
+![Architecture Diagram](./Untitled-2026-01-18887-0051.excalidraw.png)
+
+
+
 
 ```
 ┌─────────────┐      ┌──────────────┐      ┌──────────────┐      ┌──────────┐
